@@ -10,6 +10,7 @@ public class Git {
 		
 
 		System.out.println("회사에서 작업1");
+		System.out.println("회사에서 작업3");
 	}
 
 }
